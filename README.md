@@ -36,9 +36,6 @@ The PowerBI dashboard includes the following key components:
 5. **Sales by State:**
    - Top states by sum of amount: Maharashtra, Madhya Pradesh, Andhra Pradesh, Uttar Pradesh, Gujarat.
 
-## Dashboard Overview
-
-![Dashboard Overview](https://img.freepik.com/free-vector/infographic-dashboard-user-panel_52683-30026.jpg?size=626&ext=jpg)
 
 ## Getting Started
 
@@ -53,4 +50,4 @@ Before running the PowerBI project, ensure that you have the following:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/Ablu786/madhav_store_dashboard.git
+   git clone https://github.com/Ablu876/madhav_store_dashboard
